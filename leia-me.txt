@@ -1,0 +1,1 @@
+Neste projeto poderemos ver o uso de alguns recursos como switch, toogleButton, checkBox e a utilização de um icone de imagem com toast. 
